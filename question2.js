@@ -1,0 +1,1 @@
+console.log("in question 2.js")

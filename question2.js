@@ -271,7 +271,7 @@ var testCase3 = 1234;
 var testCase4 = 10;
 var testCase5 = 21;
 
-var textIt = spellIt(testCase4);
+var textIt = spellIt(testCase3);
    console.log("******************** Test Question 2 results ***************************")
    console.log(textIt);
 

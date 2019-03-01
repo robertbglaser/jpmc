@@ -275,3 +275,5 @@ var textIt = spellIt(testCase3);
    console.log("******************** Test Question 2 results ***************************")
    console.log(textIt);
 
+   
+
